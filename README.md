@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C5BA2&height=120&section=header"/>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&duration=3000&pause=0&color=C2B014&center=true&vcenter=true&multiline=true&width=1000&height=80&lines=¡Hola+mundo!+Soy+Kenny+Diaz+👋;Bienvenidos+a+mi+GitHub+🐈‍⬛;Gracias+por+la+visita+:D+❤️" alt="¡Hola mundo! Soy Kenny Diaz👋 Bienvenidos a mi GitHub 🐈‍⬛ Gracias por la visita :D ❤️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&duration=3000&pause=0&color=C2B014&center=true&vcenter=true&multiline=true&width=1000&height=80&lines=Universidad+Nacional+de+Colombia;Facultad+de+Minas;Programación+Orientada+a+Objetos" alt="¡Hola mundo! Soy Kenny Diaz👋 Bienvenidos a mi GitHub 🐈‍⬛ Gracias por la visita :D ❤️" />
 </p>
 
 
