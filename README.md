@@ -51,4 +51,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=WaalanXD&icon=2&color=8)](https://visitcount.itsvg.in)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C5BA2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=%20&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
