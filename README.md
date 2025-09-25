@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&fontSize=45&fontColor=ffffff&&descSize=25&descAlign=center&animation=fadeIn" width="100%"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&size=30&pause=1000&duration=3000&pause=0&color=2DC7FF&rigth=true&vcenter=true&multiline=true&width=1000&height=80&lines=Taller+2" alt="Taller 2" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Taller%2002&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&duration=3000&pause=0&color=C2B014&center=true&vcenter=true&multiline=true&width=1000&height=80&lines=Universidad+Nacional+de+Colombia;Facultad+de+Minas;Programación+Orientada+a+Objetos" alt="Universidad Nacional de Colombia Facultad de Minas Programación Orientada a Objetos" />
