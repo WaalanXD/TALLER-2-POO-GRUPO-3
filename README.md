@@ -5,6 +5,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&duration=3000&pause=0&color=C2B014&center=true&vcenter=true&multiline=true&width=1000&height=80&lines=Universidad+Nacional+de+Colombia;Facultad+de+Minas;Programación+Orientada+a+Objetos" alt="Universidad Nacional de Colombia Facultad de Minas Programación Orientada a Objetos" />
 </p>
 
+#
+> *`Ejercicios resueltos del 2.1 al 2.5 realizados en python 🐍`* 
+
 
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=Integrantes" alt="Typing SVG" /></a> 
@@ -13,13 +16,13 @@
 
 #### Kenny Daniel Diaz Diaz
 
+
+
+
 #
-> *`"La verdadera felcidad consiste en hacer el bien" -✨Aristoteles✨`* 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=Profesor:+" alt="Typing SVG" /></a>
 
-
-#
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🌐+Redes+Sociales+🌐" alt="Typing SVG" /></a>
-
+#### Walter Arboleda Mazo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenny-daniel-diaz-diaz-8418062b4) 
 #
 
