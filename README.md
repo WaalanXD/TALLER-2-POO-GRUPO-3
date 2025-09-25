@@ -1,4 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C5BA2&height=120&section=header"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&duration=3000&pause=0&color=C2B014&center=true&vcenter=true&multiline=true&width=1000&height=80&lines=Taller+2" alt="Taller 2" />
+</p>
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&duration=3000&pause=0&color=C2B014&center=true&vcenter=true&multiline=true&width=1000&height=80&lines=Universidad+Nacional+de+Colombia;Facultad+de+Minas;Programación+Orientada+a+Objetos" alt="Universidad Nacional de Colombia Facultad de Minas Programación Orientada a Objetos" />
@@ -6,14 +8,11 @@
 
 
 #
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🌻+Sobre+mi+🌻" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=Integrantes" alt="Typing SVG" /></a> 
 <img align=right height="230" width="230" alt="GIF" src="https://github.com/user-attachments/assets/9ce4f05b-c807-420c-877b-87fe48dfa664"/>
 
 
-#### Estudiante de Ingenieria de Sistemas e Informatica en la Universidad Nacional de Colombia.
-#### Tengo 18 años y me apasiona el aprendizaje continuo, especialmente en el area de desarrollo de software.
-#### Actualmente estoy estudiando Programación Orientada a Objetos.
-#### Todavia no se nada 🗿
+#### Kenny Daniel Diaz Diaz
 
 #
 > *`"La verdadera felcidad consiste en hacer el bien" -✨Aristoteles✨`* 
