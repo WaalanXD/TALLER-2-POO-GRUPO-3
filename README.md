@@ -35,8 +35,13 @@
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🗒️+UML+🗒️" alt="Typing SVG" /></a>
 
-> *`Ejercicio 2.1`* 
+> *`Ejercicio 2.1`*
+> *
+> 
 > >  *`Ejercicio 2.2`*
+> > <img width="1536" height="1024" alt="UML_2" src="https://github.com/user-attachments/assets/16335959-de9b-4abe-b846-dea59736ed76" />
+
+> > 
 > > > *`Ejercicio 2.3`*
 > > > > *`Ejercicio 2.4`*
 > > > > > *`Ejercicio 2.5`* 
@@ -45,13 +50,18 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🖥️+Codigo+Fuente+🖥️" alt="Typing SVG" /></a>
 
 #### Actividad 2 en general: 
-#### https://github.com/WaalanXD/TALLER-2-POO-GRUPO-3/tree/main/actividad02
-
-> *`Ejercicio 2.1`* 
-> >  *`Ejercicio 2.2`*
-> > > *`Ejercicio 2.3`*
-> > > > *`Ejercicio 2.4`*
-> > > > > *`Ejercicio 2.5`* 
+#### *https://github.com/WaalanXD/TALLER-2-POO-GRUPO-3/tree/main/actividad02*
+#
+> *`Ejercicio 2.1`*
+* *https://github.com/WaalanXD/TALLER-2-POO-GRUPO-3/tree/main/actividad02/ejercicio01*
+>   *`Ejercicio 2.2`*
+* *https://github.com/WaalanXD/TALLER-2-POO-GRUPO-3/tree/main/actividad02/ejercicio02*
+>  *`Ejercicio 2.3`*
+* *https://github.com/WaalanXD/TALLER-2-POO-GRUPO-3/tree/main/actividad02/ejercicio03*
+> *`Ejercicio 2.4`*
+* *https://github.com/WaalanXD/TALLER-2-POO-GRUPO-3/tree/main/actividad02/ejercicio04*
+>  *`Ejercicio 2.5`*
+* *https://github.com/WaalanXD/TALLER-2-POO-GRUPO-3/tree/main/actividad02/ejercicio05*
 
 #
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&duration=3000&pause=0&color=C2B014&center=true&vcenter=true&multiline=true&width=1000&height=80&lines=30+de+Septiembre;Medellín,+Antioquia" alt="gif" />
