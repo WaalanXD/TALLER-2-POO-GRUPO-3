@@ -36,7 +36,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🗒️+UML+🗒️" alt="Typing SVG" /></a>
 
 > *`Ejercicio 2.1`*
->  
+>  <img width="1080" height="441" alt="UML 1" src="https://github.com/user-attachments/assets/bf942f09-b99d-427c-8f9c-204985262d8b" />
+
 > >  *`Ejercicio 2.2`*
 > >  <img width="1760" height="1360" alt="Clase UML ejercicio 2" src="https://github.com/user-attachments/assets/c56ca60b-5e45-4371-b9a2-d0531e6ab436" />
 
@@ -44,6 +45,8 @@
 
 > > 
 > > > *`Ejercicio 2.3`*
+> > >  <img width="1580" height="1130" alt="UML 3 Diagrama de clases" src="https://github.com/user-attachments/assets/d325fee3-8558-45b5-a0ce-de628f7108e1" />
+
 > > > > *`Ejercicio 2.4`*
 > > > > <img width="1560" height="1041" alt="UML 4 ejercicio" src="https://github.com/user-attachments/assets/97a0a7f0-d7e0-4823-89f8-c08bfb400c70" />
 
