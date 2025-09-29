@@ -84,7 +84,7 @@
 * *https://github.com/WaalanXD/TALLER-2-POO-GRUPO-3/tree/main/actividad02/ejercicio05*
 
 #
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&duration=3000&pause=0&color=C2B014&center=true&vcenter=true&multiline=true&width=1000&height=80&lines=30+de+Septiembre;Medellín,+Antioquia" alt="gif" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&duration=3000&pause=0&color=C2B014&center=true&vcenter=true&multiline=true&width=1000&height=80&lines=30+de+Septiembre+de+2025;Medellín,+Antioquia" alt="gif" />
 </p>
 
 ---
