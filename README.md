@@ -46,7 +46,8 @@
 
 > > 
 > > > *`Ejercicio 2.3`*
-> > >  <img width="1570" height="1069" alt="UML 3 Diagrama de clases" src="https://github.com/user-attachments/assets/18ad6033-6613-4d69-9780-8da3a23b9b46" />
+> > >  <img width="1570" height="1069" alt="UML 3 Diagrama de clases" src="https://github.com/user-attachments/assets/280fa607-6f10-49f6-bd1f-6c4980e387ef" />
+
 
 
 
@@ -57,7 +58,8 @@
 
 
 > > > > > *`Ejercicio 2.5`*
-> > > > > <img width="1113" height="668" alt="Clase UML ejercicio 5" src="https://github.com/user-attachments/assets/e480de33-5520-4af7-acdf-2f96b1cc4d71" />
+> > > > > <img width="1640" height="668" alt="Clase UML ejercicio 5" src="https://github.com/user-attachments/assets/746b3858-4411-49b8-9a24-643ca4880762" />
+
 
 
 
