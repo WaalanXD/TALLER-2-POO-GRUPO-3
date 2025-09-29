@@ -45,7 +45,9 @@
 > > 
 > > > *`Ejercicio 2.3`*
 > > > > *`Ejercicio 2.4`*
-> > > > <img width="1540" height="1000" alt="UML 4 ejercicio" src="https://github.com/user-attachments/assets/350a695b-cb51-4d6b-895c-6113be3e4ecd" />
+> > > > <img width="1560" height="1041" alt="UML 4 ejercicio" src="https://github.com/user-attachments/assets/97a0a7f0-d7e0-4823-89f8-c08bfb400c70" />
+
+
 
 > > > > > *`Ejercicio 2.5`*
 > > > > > <img width="1620" height="688" alt="Clase UML ejercicio 5" src="https://github.com/user-attachments/assets/e7fdd93d-b514-4849-9259-864218a7c7dd" />
