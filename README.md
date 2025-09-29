@@ -39,13 +39,17 @@
 >  <img width="1080" height="441" alt="UML 1" src="https://github.com/user-attachments/assets/bf942f09-b99d-427c-8f9c-204985262d8b" />
 
 > >  *`Ejercicio 2.2`*
-> >  <img width="1760" height="1360" alt="Clase UML ejercicio 2" src="https://github.com/user-attachments/assets/c56ca60b-5e45-4371-b9a2-d0531e6ab436" />
+> >  <img width="1760" height="1360" alt="Clase UML ejercicio 2" src="https://github.com/user-attachments/assets/cccfc87c-c17e-48b7-b4f6-7851989b64a2" />
+
 
 
 
 > > 
 > > > *`Ejercicio 2.3`*
-> > >  <img width="1580" height="1130" alt="UML 3 Diagrama de clases" src="https://github.com/user-attachments/assets/d325fee3-8558-45b5-a0ce-de628f7108e1" />
+> > >  <img width="1570" height="1069" alt="UML 3 Diagrama de clases" src="https://github.com/user-attachments/assets/18ad6033-6613-4d69-9780-8da3a23b9b46" />
+
+
+
 
 > > > > *`Ejercicio 2.4`*
 > > > > <img width="1560" height="1041" alt="UML 4 ejercicio" src="https://github.com/user-attachments/assets/97a0a7f0-d7e0-4823-89f8-c08bfb400c70" />
@@ -53,7 +57,9 @@
 
 
 > > > > > *`Ejercicio 2.5`*
-> > > > > <img width="1620" height="688" alt="Clase UML ejercicio 5" src="https://github.com/user-attachments/assets/e7fdd93d-b514-4849-9259-864218a7c7dd" />
+> > > > > <img width="1113" height="668" alt="Clase UML ejercicio 5" src="https://github.com/user-attachments/assets/e480de33-5520-4af7-acdf-2f96b1cc4d71" />
+
+
 
 
 
