@@ -36,15 +36,22 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🗒️+UML+🗒️" alt="Typing SVG" /></a>
 
 > *`Ejercicio 2.1`*
-> *
-> 
+>  
 > >  *`Ejercicio 2.2`*
-> > <img width="1536" height="1024" alt="UML_2" src="https://github.com/user-attachments/assets/16335959-de9b-4abe-b846-dea59736ed76" />
+> >  <img width="1760" height="1360" alt="Clase UML ejercicio 2" src="https://github.com/user-attachments/assets/c56ca60b-5e45-4371-b9a2-d0531e6ab436" />
+
+
 
 > > 
 > > > *`Ejercicio 2.3`*
 > > > > *`Ejercicio 2.4`*
-> > > > > *`Ejercicio 2.5`* 
+> > > > <img width="1540" height="1000" alt="UML 4 ejercicio" src="https://github.com/user-attachments/assets/350a695b-cb51-4d6b-895c-6113be3e4ecd" />
+
+> > > > > *`Ejercicio 2.5`*
+> > > > > <img width="1620" height="688" alt="Clase UML ejercicio 5" src="https://github.com/user-attachments/assets/e7fdd93d-b514-4849-9259-864218a7c7dd" />
+
+
+
 #
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🖥️+Codigo+Fuente+🖥️" alt="Typing SVG" /></a>
